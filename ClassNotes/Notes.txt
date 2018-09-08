@@ -1,3 +1,20 @@
+
+
+
+Student id : 1898844
+
+
+user and pwd : Aconted / conted
+
+
+\\BH210-12
+
+
+
+-----------------
+
+
+hadoop fs
 hadoop fs -ls
 
 
