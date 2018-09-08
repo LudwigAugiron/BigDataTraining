@@ -1,0 +1,8 @@
+hadoop fs -ls
+
+
+git add.
+git status
+git commit -m "my stuff"
+git push origin master
+
